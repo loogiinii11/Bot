@@ -1,0 +1,14 @@
+{
+    "-1001434286763": {
+        "active": true,
+        "sources": {},
+        "word_replace": {
+            "active": false,
+            "pairs": {}
+        },
+        "link_replace": {
+            "active": false,
+            "replacement": "[Link Removed]"
+        }
+    }
+}
